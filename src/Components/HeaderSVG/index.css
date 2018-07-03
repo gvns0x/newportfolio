@@ -1,0 +1,24 @@
+.headerSVG-img {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-color: red;
+<<<<<<< HEAD
+    width: 130%;
+=======
+    width: 140%;
+>>>>>>> 559a1da... new Text Component
+=======
+    width: 140%;
+>>>>>>> 70ec1a3... added styles
+=======
+>>>>>>> b21f837... add all header component
+    margin-left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    top:16px;
+    width: 130%;
+}
+
+.headerSVG-img path {
+    fill: #162BF4 !important;
+}

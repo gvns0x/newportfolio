@@ -1,0 +1,15 @@
+.IndicatorContainer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: blueviolet;
+}
+
+.IndicatorContainer-item {
+    width: 2px;
+    height: 24px;
+    background-color: #162BF4;
+}
