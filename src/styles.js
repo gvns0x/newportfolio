@@ -8,7 +8,7 @@ const blue = "#162BF4";
 
 const titleFont = 'Open Sans Condensed, sans-serif';
 const h1Size = '30px';
-const h2Size = '22px';
+const h2Size = '18px';
 
 export const styles = {
     textStyles: {
