@@ -8,7 +8,6 @@ import TextBlock from './Components/TextBlock';
 import H1Title from './Components/Titles/H1Title';
 import Indicator from './Components/Indicator';
 import Study from './Components/Study';
-import Together from './Components/Together';
 
 import { styles } from './styles.js';
 class App extends Component {
