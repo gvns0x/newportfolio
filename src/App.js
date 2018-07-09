@@ -38,7 +38,7 @@ class App extends Component {
             <p style={styles.textStyles.textNormal}>I’d love to hear more about your project and how I can help. Tell me more about it — I’ll be in touch as soon as possible.</p>
           </TextBlock>
           <TextBlock>
-            <p style={styles.textStyles.textNormal}>You can also <span style={styles.textStyles.textLink}>send me an e-mail to hi@juauz.com</span> or find me on the web.</p>
+            <p style={styles.textStyles.textNormal}>You can also <a href="#" style={styles.textStyles.textLink}>send me an e-mail to hi@juauz.com</a> or find me on the web.</p>
           </TextBlock>
       </Layout>
     );
