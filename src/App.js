@@ -31,7 +31,15 @@ class App extends Component {
         <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
         <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
         <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
-        <Together/>
+        <H1Title>
+            Let's work together
+          </H1Title>
+          <TextBlock>
+            <p style={styles.textStyles.textNormal}>I’d love to hear more about your project and how I can help. Tell me more about it — I’ll be in touch as soon as possible.</p>
+          </TextBlock>
+          <TextBlock>
+            <p style={styles.textStyles.textNormal}>You can also <span style={styles.textStyles.textLink}>send me an e-mail to hi@juauz.com</span> or find me on the web.</p>
+          </TextBlock>
       </Layout>
     );
   }
