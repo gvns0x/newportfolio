@@ -7,7 +7,7 @@ import HeaderSVG from './Components/HeaderSVG';
 import TextBlock from './Components/TextBlock';
 import H1Title from './Components/Titles/H1Title';
 import Indicator from './Components/Indicator';
-import Study from './Components/Study';
+import Cases from './Components/Cases';
 
 import { styles } from './styles.js';
 class App extends Component {
@@ -26,10 +26,7 @@ class App extends Component {
           </TextBlock>
           <Indicator/>
         </Header>
-        <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
-        <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
-        <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
-        <Study name="MEO UX/UI Redesign" areas="Research / UX Design / UI Design" image="http://via.placeholder.com/500x500"/>
+        <Cases/>
       </Layout>
     );
   }
